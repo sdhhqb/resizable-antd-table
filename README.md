@@ -4,7 +4,7 @@ make ant-design table column resizable, highly inspire by [resize-antd-table][1]
 
 ### usage
 
-npm install resizable-antd-table
+>npm install resizable-antd-table
 
 ```
 import ResizableAntdTable from 'resizable-antd-table';
@@ -27,9 +27,14 @@ const data = [
 ```
 
 
+### demo
+
+[demo][2]
+
 
 
 
 
 
 [1]: https://github.com/Jullys/resize-antd-table
+[2]: https://sdhhqb.github.io/resizable-antd-table/
