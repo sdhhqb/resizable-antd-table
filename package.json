@@ -2,7 +2,7 @@
   "name": "resizable-antd-table",
   "version": "1.0.0",
   "description": "make ant-design table column resizable",
-  "main": "index.js",
+  "main": "dist/resizable-antd-table.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
