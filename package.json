@@ -1,6 +1,6 @@
 {
   "name": "resizable-antd-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "make ant-design table column resizable",
   "main": "dist/resizable-antd-table.js",
   "scripts": {
